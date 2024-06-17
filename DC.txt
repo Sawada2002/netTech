@@ -1,0 +1,4 @@
+Japan 234
+USA 5381
+China 1872
+Italy 451
